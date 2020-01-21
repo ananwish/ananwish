@@ -1,5 +1,5 @@
-#ananwish
+# ananwish
 A simple add to manage your daily tasks
 
-##Features
+## Features
 * List of daily tasks
